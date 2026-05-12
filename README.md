@@ -19,28 +19,13 @@ A luxury fashion boutique mobile app built with React, featuring AI-powered styl
 
 1. **Double-click `index.html`** to open in browser
    - OR: Open with any modern browser (Chrome, Firefox, Edge, Safari)
-   - Note: For AI features to work, internet connection is required
+   - Note: Also suitable through expo commands npm,node.js,react native
 
-2. The app runs fully in the browser — no install needed!
+2. The app runs fully in the browser — 
 
 ## 📱 Mobile Preview
 The app is designed for mobile (430px max-width) and looks best on mobile or in browser devtools mobile view.
-
-## 🔑 AI Features
-- Home page shows AI fashion tips from Claude
-- Search page offers AI style suggestions for any query
-- Profile page gives personalized style advice
-
 ## 📁 File Structure
-```
-laibas-boutique/
-├── index.html          # App entry point
-├── README.md
-└── src/
-    ├── App.jsx         # Main React app (all components)
-    └── styles/
-        └── main.css    # Complete luxury styling
-```
 
 ## 🎨 Design
 - **Colors**: Forest Green, Emerald, Gold, Cream
